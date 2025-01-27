@@ -6,4 +6,4 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[E-hyeon]&show_icons=true&theme=tokyonight) <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-hyeon&show_icons=true&theme=tokyonight) <br />
